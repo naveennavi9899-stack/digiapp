@@ -58,7 +58,7 @@ export default function Home() {
         </form>
 
         <p className="text-center text-sm text-gray-500 dark:text-gray-400">
-          Don't have an account?{" "}
+          Don not have an account?{" "}
           <a href="#" className="text-blue-600 hover:underline dark:text-blue-400">
             Sign up
           </a>
